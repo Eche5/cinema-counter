@@ -1,0 +1,64 @@
+body{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sala_de_cine.jpg/1024px-Sala_de_cine.jpg") ;
+    background-size: cover;
+    /* background: linear-gradient(rgba(222, 218, 217, 0.9), rgba(225, 218, 216, 0.9)), url("img/bg.jpg"); */
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;}
+h1{
+    margin-top: 150px;
+    font-size: 60px;
+    text-align: center;
+}
+.container {
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+h3 {
+    font-size: 60px;
+    text-align: center;
+
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn {
+    background: rgb(0, 139, 53);
+}
+#decrement-btn {
+    background: darkred;
+}
+#save-btn {
+    background: rgb(221, 225, 13);
+
+}
+#save-el {
+    font-weight: bolder;
+}
+.button {
+    margin-left: 15%;
+
+}
+p {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+body {
+    font-family: sans-serif;
+}
